@@ -1,0 +1,5 @@
+name: MyPlugin
+version: 1.0
+main: me.dmitryname.myplugin.MyPlugin
+description: My Java Plugin
+author: dmitryname 
