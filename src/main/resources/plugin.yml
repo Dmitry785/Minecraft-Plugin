@@ -2,4 +2,10 @@ name: MyPlugin
 version: 1.0
 main: me.dmitryname.myplugin.MyPlugin
 description: My Java Plugin
-author: dmitryname 
+author: dmitryname
+commands:
+  message:
+    description: sends a message
+    aliases:
+      - m
+    usage: /message <hello/goodbye>
