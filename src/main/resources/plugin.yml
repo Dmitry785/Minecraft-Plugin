@@ -9,3 +9,6 @@ commands:
     aliases:
       - m
     usage: /message <hello/goodbye>
+  getSigarette:
+    description: gives a sigarette
+    usage: /getSigarette <usageCount>
